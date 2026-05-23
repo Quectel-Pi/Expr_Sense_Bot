@@ -1,0 +1,7 @@
+[console_scripts]
+avoidance_node = app.avoidance_node:main
+gesture_control_node = app.gesture_control_node:main
+line_following = app.line_following:main
+qrcode = app.qrcode:main
+tracking = app.tracking:main
+
